@@ -55,7 +55,7 @@ This is ***your*** job. It's up to the module creator to prove that their work i
 - [Reference](https://github.com/noffle/art-of-readme)
 
 ## Rubric
-**Tests are not required for this lab**
+*Amended 4/27* <strike>**Tests are not required for this lab**</strike>
 - 7pts: Program meets all requirements described in Lab directions
 
 	Points  | Reasoning | 
